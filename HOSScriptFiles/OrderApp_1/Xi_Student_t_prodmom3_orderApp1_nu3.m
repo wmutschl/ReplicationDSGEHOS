@@ -1,0 +1,9 @@
+function nXI3min = Xi_Student_t_prodmom3_orderApp1_nu3(arg)
+df = arg(1);
+SIGe_1_1 = arg(2);
+SIGe_2_1 = arg(3);
+SIGe_3_1 = arg(4);
+SIGe_2_2 = arg(5);
+SIGe_3_2 = arg(6);
+SIGe_3_3 = arg(7);
+nXI3min=zeros(10,1);
